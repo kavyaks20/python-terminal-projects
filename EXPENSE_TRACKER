@@ -1,0 +1,8 @@
+1.Expense Tracker(using class and file handling):
+ Create a simple expense tracking program that allows
+ users to record their expenses in a file.
+
+
+a.add expense
+b.view expense
+c.write expense to file
